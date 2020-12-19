@@ -5,8 +5,8 @@
       <router-link to="/about">About</router-link>
     </div> -->
     <!-- <router-view/> -->
-    
-    <main-tab-bar></main-tab-bar>
+<router-view/>
+    <main-tab-bar/>
   </div>
 </template>
 <script>
