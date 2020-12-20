@@ -1,10 +1,11 @@
 @import "./normalize.css";
-
+@import "../../../colorui/main.css";
+@import "../../../colorui/icon.css";
 /*:root -> 获取根元素html*/
 :root {
   --color-text: #666;
-  --color-high-text: #ff5777;
-  --color-tint: #ff8198;
+  --color-high-text:#42B983;
+  --color-tint: #4bd394;
   --color-background: #fff;
   --font-size: 14px;
   --line-height: 1.5;
